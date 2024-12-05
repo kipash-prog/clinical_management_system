@@ -13,4 +13,3 @@ CREATE TABLE clinical_management_system (
     date_created TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-select * from clinical_management_system;
