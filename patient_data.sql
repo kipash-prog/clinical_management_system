@@ -1,4 +1,3 @@
--- Active: 1703004728415@@127.0.0.1@3306
 CREATE DATABASE clinic;
 
 USE clinic;
