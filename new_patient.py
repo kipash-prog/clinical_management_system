@@ -9,9 +9,8 @@ conn = mysql.connector.connect(
 )
 
 def main():
-    admin_name = "admin" #enter admin 
-    admin_password = "admin_password"  #enter admin password
-    
+    admin_name = "admin" 
+    admin_password = "admin_password"  
     name = input("Enter admin name: ").lower()
     password = input("Enter admin password: ")
     
